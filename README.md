@@ -84,7 +84,7 @@ See `docs/TROUBLESHOOTING.md` for a deeper checklist.
 - No network requests are made by the extension beyond the Firefox WebExtension APIs.
 
 ## License
-Specify a license of your choosing (for example, MIT). If you leave this section blank, the code remains “all rights reserved” by default.
+MIT
 
 ## Further Reading
 - Packaging guide: `docs/PACKAGING.md`
